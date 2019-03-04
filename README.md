@@ -50,12 +50,12 @@ node app.js
 - app.js: main server application
 - .env: storage environment variables
 
-## Server Routes
+## Server
 By default the server has the following routes configure:
 
 ![Server Routes](https://i.imgur.com/tuwgtx5.png)
 
-## Built With
+## Built
 
 * [Nodejs](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine
 * [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Nodejs
