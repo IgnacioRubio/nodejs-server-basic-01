@@ -4,13 +4,12 @@ This project is a template for a basic server with Nodejs serving HTML files.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license
+- [Prerequisites](#prerequisites)
+- [Installing](#installing)
+- [Running](#running)
+- [Scaffolding](#scaffolding)
+- [Server routes](#server routes)
+- [Built With](#built with)
 
 ### Prerequisites
 Before begining with the project installation, your system must have installed the following:
@@ -51,10 +50,10 @@ node app.js
 - app.js: main server application
 - .env: storage environment variables
 
-## Server routes
+## Server Routes
 By default the server has the following routes configure:
 
-![Server Routes](https://imgur.com/tuwgtx5)
+![Server Routes](https://i.imgur.com/tuwgtx5.png)
 
 ## Built With
 
