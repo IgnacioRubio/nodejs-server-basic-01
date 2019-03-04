@@ -8,8 +8,8 @@ This project is a template for a basic server with Nodejs serving HTML files.
 - [Installing](#installing)
 - [Running](#running)
 - [Scaffolding](#scaffolding)
-- [Server routes](#serverRoutes)
-- [Built With](#built)
+- [Server](#server)
+- [Built](#built)
 
 ### Prerequisites
 Before begining with the project installation, your system must have installed the following:
